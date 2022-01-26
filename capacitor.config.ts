@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
   appName: 'Hackathon',
+  appId: 'fr.bodetrnite.Hackathon',
   webDir: 'dist',
   bundledWebRuntime: false
 };

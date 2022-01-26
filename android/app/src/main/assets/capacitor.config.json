@@ -1,0 +1,6 @@
+{
+	"appName": "Hackathon",
+	"appId": "fr.bodetrnite.Hackathon",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
